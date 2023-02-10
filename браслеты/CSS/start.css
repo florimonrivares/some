@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet');
+
+body {
+    background: url('https://img2.akspic.ru/crops/1/6/9/1961/1961-dizajn-svet-teplo-apelsin-ubuntu-2560x1600.jpg'); 
+    
+    background-repeat: no-repeat; 
+    background-size: cover;
+    font-family: 'Amatic SC' ;
+    
+}
+
+
+
+button, .endbutton {
+    color:rgb(84, 28, 8);
+    background-color: rgb(199, 117, 79);
+    font-size: 30px;
+    font-family: 'Amatic SC';
+    font-weight: bold;
+    position: relative;
+    left: 48.5%;
+    border-radius: 6px;
+}
+
+.text {
+    color:rgb(209, 105, 67);
+    font-size: 30px;
+    font-family: 'Amatic SC';
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+}
+
+
+::placeholder {color:rgb(108, 59, 29)}
+
+label {
+    color:rgb(84, 28, 8);
+    background-color: rgb(199, 117, 79);
+    font-size: 30px;
+    font-family: 'Amatic SC';
+    font-weight: bold;
+    text-align: center;
+    border-radius: 6px;
+}
+
+#name {
+    color:rgb(84, 28, 8);
+    font-size: 30px;
+    font-family: 'Amatic SC';
+    font-weight: bold;
+    position: relative;
+    left: 45%;
+    border-radius: 6px;
+}
+
+#endtable {
+    text-align: center;
+    border-radius: 6px;
+    border-color: rgba(219, 175, 157, 0);
+    margin: auto;
+}
+
